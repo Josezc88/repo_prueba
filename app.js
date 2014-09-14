@@ -9,3 +9,7 @@ public void calcular()
 {
   System.out.println("Hola mundo");
 }
+
+publiv void hola(){
+  System.out.println("HOla")
+}

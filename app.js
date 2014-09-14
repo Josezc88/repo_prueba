@@ -9,3 +9,9 @@ public void calcular()
 {
   System.out.println("Hola mundo");
 }
+
+
+public void Hola()
+{
+  System.out.println("Hola mundo");
+}
